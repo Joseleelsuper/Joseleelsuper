@@ -12,12 +12,3 @@
 
 > [!CAUTION]
 > Precaución
-
-> [!RECOMMENDATION]
-> Recomendación
-
-> [!MOREINFO]
-> Más información
-
-> [!EXAMPLE]
-> Ejemplo
