@@ -25,3 +25,4 @@
 - 🔧 build: Cambios en el sistema de construcción.
 - 🔗 ci: Configuración de integración continua.
 - 🛠️ chore: Tareas de mantenimiento y otros cambios menores.
+- 🖼️ img: Agregar imágenes.
