@@ -27,8 +27,8 @@
 
 ###
 
-[<img src="https://img.shields.io/static/v1?message=Protonmail&logo=protonmail&label=&color=purple&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="protonmail logo">](mailto:JoseGallardoC@protonmail.com)
-[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo">](https://www.linkedin.com/in/jose-gallardo-caballero/)
+[![Proton Mail](https://camo.githubusercontent.com/89e983068579f220c3f174b7918054c1f972c74c41b7feacda72eb6f6eef070e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f746f6e2532304d61696c2d3644344146463f6c6f676f3d70726f746f6e6d61696c266c6f676f436f6c6f723d666666)](mailto:JoseGallardoC@protonmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jose-gallardo-caballero/)
 
 ###
 
