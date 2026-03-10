@@ -1,4 +1,5 @@
-## Anotaciones
+# Anotaciones
+
 > [!NOTE]
 > Nota
 
@@ -15,6 +16,7 @@
 > Precaución
 
 ## Commits convencionales
+
 - 🔧 feat: Añade una nueva funcionalidad.
 - 🐛 fix: Corrige errores en el código.
 - 📚 docs: Cambios en la documentación.
