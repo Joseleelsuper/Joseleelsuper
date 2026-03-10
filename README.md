@@ -4,8 +4,6 @@
 
 ![Stats](profile/stats.svg)
 
-![Top languages](profile/top-langs.svg)
-
 ###
 
 ###
